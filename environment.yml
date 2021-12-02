@@ -4,6 +4,6 @@ dependencies:
   - matplotlib
   - pandas
   - xarray
-  - datetime
+  - timedelta
   - netCDF4
-  - mpl_toolkits
+  - Basemap
