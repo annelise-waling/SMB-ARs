@@ -6,6 +6,7 @@ dependencies:
   - xarray
   - netCDF4
   - Basemap
+  - Path
   - pip:
     - datetime
     - timedelta
