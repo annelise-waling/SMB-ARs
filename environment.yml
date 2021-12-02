@@ -4,6 +4,8 @@ dependencies:
   - matplotlib
   - pandas
   - xarray
-  - timedelta
   - netCDF4
   - Basemap
+  - pip:
+    - datetime
+    - timedelta
