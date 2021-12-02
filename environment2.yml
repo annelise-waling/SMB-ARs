@@ -3,3 +3,7 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - xarray
+  - datetime
+  - netCDF4
+  - mpl_toolkits
