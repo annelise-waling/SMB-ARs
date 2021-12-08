@@ -11,4 +11,4 @@ dependencies:
     - datetime
     - timedelta
     - copy
-    - matplotlib.patches
+  
