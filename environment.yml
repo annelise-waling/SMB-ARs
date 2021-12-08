@@ -7,8 +7,9 @@ dependencies:
   - netCDF4
   - Basemap
   - Path
+  - copy
   - pip:
     - datetime
     - timedelta
-    - copy
+ 
   
